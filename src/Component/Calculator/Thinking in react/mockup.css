@@ -1,0 +1,24 @@
+.boxsize{
+   /* border: 3px solid red; */
+    padding: 5em;
+    width: 23.5em;
+    margin-top: 5em;
+    height: 33em;
+    margin-left:10em;
+}
+
+.checkingbox{
+    padding: 0.5em
+}
+.flexingtxt{
+    display: flex;
+  justify-content: space-between;
+}
+*
+{
+    font-family: sans-serif;
+}
+.flexing_data{
+    display: flex;
+    justify-content: space-between;
+}

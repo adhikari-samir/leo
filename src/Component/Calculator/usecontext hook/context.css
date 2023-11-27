@@ -1,0 +1,16 @@
+.welcome{
+    border: 2px solid black;
+    width:30em;
+    height:7em;
+    padding-left: 2em;
+    padding-top: 0.5em;
+    border-radius: 10px;
+}
+.panel-dark{
+    background-color: black;
+    color: white;
+}
+.panel-light{
+    background-color: white;
+    color: black;
+}

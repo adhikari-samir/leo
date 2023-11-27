@@ -1,0 +1,44 @@
+.box{
+border: 2px solid lightblue;
+height: 23em;
+width: 14.4em;
+margin-left: 39em;
+background-color:lightblue;
+box-shadow: 0 0 10px 0;
+margin-top: 5em;
+}
+.numbering_box{
+    background-color:bisque;
+     height: 2em;
+    width: 1.9em;   
+    font-size: 1.5em;
+    border: none;
+    border-radius:15px;
+}
+.flexing_boxes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly ;
+    margin-top: 1em;
+    row-gap: 10px;
+}
+.numbering_box1{
+    background-color: lightgreen;
+     height: 2em;
+    width: 1.9em;   
+    font-size: 1.5em;
+    border: none;
+    border-radius:15px;
+}
+.numbering_box2{
+    background-color: lightcoral;
+    height: 2em;
+   width: 1.9em;   
+   font-size: 1.5em;
+   border: none;
+   border-radius:15px;
+}
+
+.lastheading{
+    margin-top: 1em;
+}
